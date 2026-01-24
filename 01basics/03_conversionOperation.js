@@ -108,6 +108,8 @@ console.log( stringIsNew1); // undefined and typeOf stringNew will be String
 let stringIsNew2 = String(isNew2)
 console.log( stringIsNew2); // null and typeOf stringNew will be String
 
+
+
 // *********************** Operations ***********************
 
 let value = 3
