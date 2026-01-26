@@ -5,7 +5,7 @@ let isEligible = true
 let isEnrolled = undefined
 let isPassed = null
 let result;
-/*
+
 console.log(typeof score); // number
 console.log(typeof(score2)); // string
 console.log(typeof score3); // string
@@ -41,7 +41,7 @@ console.log(resultInNumber); // NaN
 // undefined => NaN
 //  Null => 0
 
-*/
+
 
 
                           // Conversion of dataType in Boolean // 
@@ -93,7 +93,7 @@ let isNew = true
 let isNew1 = undefined
 let isNew2 = null
 
-/* 
+ 
 let stringNumber = String(someNumber)
 console.log(stringNumber); // 56
 console.log(typeof stringNumber); // string
@@ -110,7 +110,7 @@ console.log( stringIsNew1); // undefined and typeOf stringNew will be String
 let stringIsNew2 = String(isNew2)
 console.log( stringIsNew2); // null and typeOf stringNew will be String
 
-*/
+
 
 // *********************** Operations ***********************
 
